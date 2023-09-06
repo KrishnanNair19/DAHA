@@ -1,7 +1,7 @@
 # Brainstorming
 
 Coming into this project, many of our members were meeting for the first time. We didn't have much of a conception of what kind of a project we wanted to make, so we each individually brainstormed ideas, grouping our thoughts into buckets. To brainstorm we used both Google Docs and Mural. The sticky note feature made it easy to perform affinity grouping and find trends and particular areas of interest among our group members. Below is an image of our brainstorming ideas which can also be found on this [Mural](https://app.mural.co/t/cs194seniorproject1728/m/cs194seniorproject1728/1649376115342/e3e77c60a9b836ac8981c40f8706417eb1fe8f3e?sender=ucae3abaa6ee0f822554b3440). Here is a google doc [link](https://docs.google.com/document/d/1A_M4eHQv-i2joInp9SoVWOWVARCuXgYFHQOhQNOkhHk/edit?usp=sharing) with our brainstormed ideas and individual favorites for easier viewing. 
-[[https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Brainstorm%20Mural.png]]
+[[https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Brainstorm%20Mural.png]]
 
 We eventually came to the consensus that the one thing unifying all of us was the fact that we were all graduating seniors. Over the past four years, we have accumulated a bunch of decorations, clothes, and appliances that we no longer needed. As a result, we wanted to get rid of them quickly. Disappointed by our experiences on Facebook Marketplace and unsure of what we could feasibly sell quickly, we decided to create a platform where the supply and demand of goods within the community could be more appropriately balanced. 
 
@@ -16,11 +16,11 @@ We measured our progress and assigned tasks to work on via this [document](https
 
 To come up with the design for our app, we started with a moodboard. We originally conjured images of garage sales, moving into a new home, and starting a new beginning. After all, these items were starting the next chapter of their life and so were some of the people selling them as they graduated from Stanford. 
 
-[[https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Original%20Mood%20Board.png]]
+[[https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Original%20Mood%20Board.png]]
 
 Our color scheme as a result relied heavily on earth tones. To minimize that overwhelming feeling that users sometimes receive when logging onto Facebook Marketplace, we used our color scheme to create a calming and relaxing experience. The green and blue shades provide a sense of sustainability, as these belongings find new homes instead of ending up in the trash. 
 
-[[https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Original%20Color%20Palette.png]]
+[[https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Original%20Color%20Palette.png]]
 
 ## The Original Prototype
 
@@ -52,6 +52,6 @@ We also wanted to create an experience of being more playful and soft. In order 
 Finally our original design used IconPark, which tended to be simplistic line art. However, we learned through our user interviews that these icons were too minimal and didn't pop out or draw the attention of users. As a result, we opted to use MaterialCommunity Icons for an added boldness that would draw the users' eyes to important buttons and information. 
 
 
-[[https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Revised%20Mood%20Board.png]]
+[[https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Revised%20Mood%20Board.png]]
 
-[[https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Revised%20Style%20Tile.png]]
+[[https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Revised%20Style%20Tile.png]]

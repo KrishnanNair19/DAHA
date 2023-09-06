@@ -65,46 +65,46 @@ To receive access to our Firebase project, contact one of the owners. After you 
 
 To access the project's database from the Firebase project overview page, click on the Firestore Database tab pictured below.
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Firestore-home.png"  width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Firestore-home.png"  width=100% height=100%>
 
 #### Offers
 To access an offer from the Firebase console, click on the "offers" root collection. You can then access an individual offer document by clicking on the desired offer UID.
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Firestore-offers.png"  width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Firestore-offers.png"  width=100% height=100%>
 
 
 Some offer documents may include a "comments" collection. This indicates that one or more comments have been made on the DAWA post.
 
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Firestore-offer-comments.png"  width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Firestore-offer-comments.png"  width=100% height=100%>
 
 
 To access comments on an offer, click on the "comments" collection. To see an individual comment, click on the comment UID.
 
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Firestore-comments.png"  width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Firestore-comments.png"  width=100% height=100%>
 
 #### Requests
 To access a request from the Firebase console, click on the "requests" root collection. You can then access an individual request document by clicking on the desired request UID.
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Firestore-requests.png"  width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Firestore-requests.png"  width=100% height=100%>
 
 #### Users
 To access a user's data from the Firebase console, click on the "users" root collection. You can then access an individual user document by clicking on the desired user UID.
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Firestore-users.png"  width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Firestore-users.png"  width=100% height=100%>
 
 
 #### Editing/Deleting a Field
 
 To manually edit or delete a document field from the Firebase Console, hover over the field you wish to edit or delete and click on the appropriate icon. Edits can include changes to the field type (e.g. boolean, string) or value.
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Firestore-editing.png"  width=70% height=70%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Firestore-editing.png"  width=70% height=70%>
 
 #### Deleting a Document
 To delete a document (e.g. offer, request, user) from the Firebase Console, click on the three vertical dots on the upper right corner of the document box and then click "Delete document".
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Firestore-delete-document.png"  width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Firestore-delete-document.png"  width=100% height=100%>
 
 ### Cloud Storage
 
@@ -114,35 +114,35 @@ For storing user-generated content for our app, we used Firebase Cloud Storage. 
 
 To access Cloud Storage from the Firebase console, click the "Storage" tab under the "Build" menu on the left hand side of the screen.
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/CloudStorage-navigation.png"  width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/CloudStorage-navigation.png"  width=100% height=100%>
 
 The root of our storage scheme is the directory root/users.
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/CloudStorage-root.png"  width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/CloudStorage-root.png"  width=100% height=100%>
 
 To navigate to the files uploaded by a specific user, click the userID of the user whose photos you wish to view. Each user is assigned an ID generated at account creation via Firebase Authentication.
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/CloudStorage-root-users.png"  width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/CloudStorage-root-users.png"  width=100% height=100%>
 
 To view the user's profile photo, click "profile.jpg." If the user has not uploaded a profile photo, there will be no such file.
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/CloudStorage-root-users-userID.png"  width=100% height=100%>
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/CloudStorage-root-users-userID-profile.png"  width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/CloudStorage-root-users-userID.png"  width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/CloudStorage-root-users-userID-profile.png"  width=100% height=100%>
 
 To view the photos associated with all the DAWA posts the user has made, click the "offers" directory. If the user has not made any DAWA posts, there will be no such directory.
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/CloudStorage-root-users-userID-offers.png"  width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/CloudStorage-root-users-userID-offers.png"  width=100% height=100%>
 
 To view the photos associated with a specific DAWA post the user has made, click the postID of the DAWA post of interest. Each DAWA document in the Firestore Database is given an ID generated at the time the document is made. See Firestore Database section for more details.
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/CloudStorage-root-users-userID-offers-postID.png"  width=100%
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/CloudStorage-root-users-userID-offers-postID.png"  width=100%
 height=100%>
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/CloudStorage-root-users-userID-offers-postID-photo.png"  width=100%
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/CloudStorage-root-users-userID-offers-postID-photo.png"  width=100%
 height=100%>
 
 To delete a photo the user has uploaded, select the file with with the checkbox to the left of the file name and click "Delete" from the pop-up. Any directory and the files it contains can be deleted in the same manner.
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/CloudStorage-root-users-userID-offers-postID-photo-delete.png"  width=100%
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/CloudStorage-root-users-userID-offers-postID-photo-delete.png"  width=100%
 height=100%>
 
 NOTE: Their is a documented [bug](https://github.com/firebase/firebase-js-sdk/issues/5848) with the `uploadBytes()` function provided by Firebase to upload files to Cloud Storage. Because of this bug Google has yet to fix, occasionally uploading photos to Cloud Storage will not succeed.
@@ -151,9 +151,9 @@ NOTE: Their is a documented [bug](https://github.com/firebase/firebase-js-sdk/is
 
 We use Firebase Authentication to manage users of our app. Firebase Authentication provides a secure way to create new users and to know the identity of any user logged into the app. To access Firebase Authentication from the Firebase console, click the "Authentication" tab under the "Build" menu on the left hand side of the screen. We create accounts with an email/password associated with each user. The email/password sign-in method is supported by Firebase as seen under the "Sign-in method" tab. One of many major benefits to using Firebase Authentication is that Firebase handles the secure one-way hashing of user passwords for us. A unique UID is also generated for each user at account creation. This UID is used in Firestore Database and Cloud Storage to refer to the content associated with a specific user.
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Firebase-Authentication-sign-in-method.PNG" width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Firebase-Authentication-sign-in-method.PNG" width=100% height=100%>
 
 Under the "Users" tab, we are able to view and manage all users of our app. We can see each identifier email associated with each user, the date their account was created, and their UID. We can reset passwords, and disable accounts, and delete accounts from this tab as well. Lastly, we have the option to set more granular details like password hashing parameters.
 
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Firebase-Authentication.PNG" width=100% height=100%>
-<img src="https://github.com/StanfordCS194/Team5-Spring22/blob/main/Wiki_Images/Firebase-Authentication-options.PNG" width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Firebase-Authentication.PNG" width=100% height=100%>
+<img src="https://github.com/KrishnanNair19/DAHA/blob/main/Wiki_Images/Firebase-Authentication-options.PNG" width=100% height=100%>

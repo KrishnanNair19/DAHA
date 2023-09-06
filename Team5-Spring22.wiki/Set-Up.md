@@ -38,7 +38,7 @@ Install the [Expo Go app](https://apps.apple.com/app/apple-store/id982107779). F
 
 ### Step 5: Cloning the Environment
 * Navigate to your desired directory in terminal. 
-* Run the following command to clone the repository `gh repo clone StanfordCS194/Team5-Spring22` or `https://github.com/StanfordCS194/Team5-Spring22.git`
+* Run the following command to clone the repository `gh repo clone KrishnanNair19/DAHA` or `https://github.com/KrishnanNair19/DAHA.git`
 * Enter the Team5 directory (`cd Team5-Spring22`) and run `npm install`. There will be a warning for 14 severe vulnerabilities due to external npm packages. These warnings can be ignored. 
 * Enter the DAHA app directory (`cd DAHA`) and run `expo start`. A QR code will be generated. 
 * If you would like to run the app on your own iPhone using the Expo Go, scan the QR code using your camera or via the Expo Go app. The app will then proceed to download and run through Expo Go. If you experience issues with a long delay, check your wifi connection (preferably your phone and computer should be on the same wifi network). 
@@ -81,7 +81,7 @@ Install the [Expo Go app](https://apps.apple.com/app/apple-store/id982107779). F
 * Note: On Windows, you will not be able to run an iPhone simulator, so you will need to use your iPhone as a proper client. 
 
 ### Step 4: Cloning the Environment
-* Run the following command to clone the repository `gh repo clone StanfordCS194/Team5-Spring22` or `https://github.com/StanfordCS194/Team5-Spring22.git`. This folder can be cloned in any desired directory. 
+* Run the following command to clone the repository `gh repo clone KrishnanNair19/DAHA` or `https://github.com/KrishnanNair19/DAHA.git`. This folder can be cloned in any desired directory. 
 * Enter the Team5 directory and run `npm install`. There will be a warning for 14 severe vulnerabilities due to external npm packages. These warnings can be ignored. 
 * Enter the DAHA app directory and run `expo start`. A QR code will be generated. 
 * Scan the QR code using your iPhone camera or via the Expo Go app. The app will then proceed to download and run through Expo Go. If you experience issues with a long delay, check your wifi connection (preferably your phone and computer should be on the same wifi network). 
@@ -95,7 +95,7 @@ Use your preferred text editor to make changes to the app! When changes are save
 Go to [firebase.google.com](firebase.google.com) to create your account.
 
 ### Step 2: Access the Firebase project
-Follow the instructions [here](https://github.com/StanfordCS194/Team5-Spring22/wiki/Database-Architecture-and-Development) to access DAHA?'s Firebase project and use the Firebase Console.
+Follow the instructions [here](https://github.com/KrishnanNair19/DAHA/wiki/Database-Architecture-and-Development) to access DAHA?'s Firebase project and use the Firebase Console.
 
 ### Step 3: Read up on Firebase Documentation
 Here are some useful resources for first-time Cloud Firestore users!
