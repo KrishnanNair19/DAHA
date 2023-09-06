@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "DAHA",
+    "slug": "DAHA",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
